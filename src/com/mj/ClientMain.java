@@ -1,5 +1,7 @@
 package com.mj;
 
+import com.mj.client.Client;
+
 import java.io.IOException;
 import java.net.Socket;
 
